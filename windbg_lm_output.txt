@@ -1,0 +1,2456 @@
+start    end        module name
+00b30000 00b66000   kext       (export symbols)       C:\Program Files\Debugging Tools for Windows (x86)\winext\kext.dll
+    Loaded symbol image file: C:\Program Files\Debugging Tools for Windows (x86)\winext\kext.dll
+    Image path: C:\Program Files\Debugging Tools for Windows (x86)\winext\kext.dll
+    Image name: kext.dll
+    Timestamp:        Mon Feb 01 12:08:22 2010 (4B6734B6)
+    CheckSum:         00033328
+    ImageSize:        00036000
+    File version:     6.12.2.633
+    Product version:  6.12.2.633
+    File flags:       8 (Mask 3F) Private
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Debugging Tools for Windows(R)
+    InternalName:     kext.dll
+    OriginalFilename: kext.dll
+    ProductVersion:   6.12.0002.633
+    FileVersion:      6.12.0002.633 (debuggers(dbg).100201-1203)
+    FileDescription:  Debugger Extensions
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+00e40000 00e57000   odbcint    (no symbols)           
+    Loaded symbol image file: C:\WINDOWS\system32\odbcint.dll
+    Image path: C:\WINDOWS\system32\odbcint.dll
+    Image name: odbcint.dll
+    Timestamp:        Sun Apr 13 10:26:05 2008 (4802422D)
+    CheckSum:         0001CD4E
+    ImageSize:        00017000
+    File version:     3.525.1132.0
+    Product version:  3.525.1132.0
+    File flags:       0 (Mask 3)
+    File OS:          4 Unknown Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft Data Access Components
+    InternalName:     ODBCINT
+    OriginalFilename: ODBCINT
+    ProductVersion:   3.525.1132.0
+    FileVersion:      3.525.1132.0 (xpsp.080413-0852)
+    FileDescription:  Microsoft Data Access - ODBC Resources
+    LegalCopyright:   Copyright (C) Microsoft Corporation 1990-2000
+01000000 01097000   windbg     (no symbols)           
+    Loaded symbol image file: C:\Program Files\Debugging Tools for Windows (x86)\windbg.exe
+    Image path: C:\Program Files\Debugging Tools for Windows (x86)\windbg.exe
+    Image name: windbg.exe
+    Timestamp:        Mon Feb 01 12:08:35 2010 (4B6734C3)
+    CheckSum:         0008F0A9
+    ImageSize:        00097000
+    File version:     6.12.2.633
+    Product version:  6.12.2.633
+    File flags:       8 (Mask 3F) Private
+    File OS:          40004 NT Win32
+    File type:        1.0 App
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Debugging Tools for Windows(R)
+    InternalName:     windbg.exe
+    OriginalFilename: windbg.exe
+    ProductVersion:   6.12.0002.633
+    FileVersion:      6.12.0002.633 (debuggers(dbg).100201-1203)
+    FileDescription:  Windows GUI symbolic debugger
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+01400000 016f9000   ext        (export symbols)       C:\Program Files\Debugging Tools for Windows (x86)\winext\ext.dll
+    Loaded symbol image file: C:\Program Files\Debugging Tools for Windows (x86)\winext\ext.dll
+    Image path: C:\Program Files\Debugging Tools for Windows (x86)\winext\ext.dll
+    Image name: ext.dll
+    Timestamp:        Mon Feb 01 12:08:31 2010 (4B6734BF)
+    CheckSum:         002E42DB
+    ImageSize:        002F9000
+    File version:     6.12.2.633
+    Product version:  6.12.2.633
+    File flags:       8 (Mask 3F) Private
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Debugging Tools for Windows(R)
+    InternalName:     ext.DLL
+    OriginalFilename: ext.DLL
+    ProductVersion:   6.12.0002.633
+    FileVersion:      6.12.0002.633 (debuggers(dbg).100201-1203)
+    FileDescription:  Debugger Extensions
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+01900000 01975000   exts       (export symbols)       C:\Program Files\Debugging Tools for Windows (x86)\WINXP\exts.dll
+    Loaded symbol image file: C:\Program Files\Debugging Tools for Windows (x86)\WINXP\exts.dll
+    Image path: C:\Program Files\Debugging Tools for Windows (x86)\WINXP\exts.dll
+    Image name: exts.dll
+    Timestamp:        Mon Feb 01 12:08:24 2010 (4B6734B8)
+    CheckSum:         0007DEBA
+    ImageSize:        00075000
+    File version:     6.12.2.633
+    Product version:  6.12.2.633
+    File flags:       8 (Mask 3F) Private
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Debugging Tools for Windows(R)
+    InternalName:     exts.DLL
+    OriginalFilename: exts.DLL
+    ProductVersion:   6.12.0002.633
+    FileVersion:      6.12.0002.633 (debuggers(dbg).100201-1203)
+    FileDescription:  Debugger Extensions
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+01980000 01c45000   xpsp2res   (no symbols)           
+    Loaded symbol image file: C:\WINDOWS\system32\xpsp2res.dll
+    Image path: C:\WINDOWS\system32\xpsp2res.dll
+    Image name: xpsp2res.dll
+    Timestamp:        Sun Apr 13 10:39:24 2008 (4802454C)
+    CheckSum:         002CA420
+    ImageSize:        002C5000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     xpsp2res.dll
+    OriginalFilename: xpsp2res.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2113)
+    FileDescription:  Service Pack 2 Messages
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+01d00000 01d48000   symsrv     (export symbols)       C:\Program Files\Debugging Tools for Windows (x86)\symsrv.dll
+    Loaded symbol image file: C:\Program Files\Debugging Tools for Windows (x86)\symsrv.dll
+    Image path: C:\Program Files\Debugging Tools for Windows (x86)\symsrv.dll
+    Image name: symsrv.dll
+    Timestamp:        Mon Feb 01 12:08:34 2010 (4B6734C2)
+    CheckSum:         0002DDB1
+    ImageSize:        00048000
+    File version:     6.12.2.633
+    Product version:  6.12.2.633
+    File flags:       8 (Mask 3F) Private
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Debugging Tools for Windows(R)
+    InternalName:     symsrv.dll
+    OriginalFilename: symsrv.dll
+    ProductVersion:   6.12.0002.633
+    FileVersion:      6.12.0002.633 (debuggers(dbg).100201-1203)
+    FileDescription:  Symbol Server
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+02000000 0239b000   dbgeng     (export symbols)       C:\Program Files\Debugging Tools for Windows (x86)\dbgeng.dll
+    Loaded symbol image file: C:\Program Files\Debugging Tools for Windows (x86)\dbgeng.dll
+    Image path: C:\Program Files\Debugging Tools for Windows (x86)\dbgeng.dll
+    Image name: dbgeng.dll
+    Timestamp:        Mon Feb 01 12:08:31 2010 (4B6734BF)
+    CheckSum:         00366863
+    ImageSize:        0039B000
+    File version:     6.12.2.633
+    Product version:  6.12.2.633
+    File flags:       8 (Mask 3F) Private
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Debugging Tools for Windows(R)
+    InternalName:     DbgEng.Dll
+    OriginalFilename: DbgEng.Dll
+    ProductVersion:   6.12.0002.633
+    FileVersion:      6.12.0002.633 (debuggers(dbg).100201-1203)
+    FileDescription:  Windows Symbolic Debugger Engine
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+03000000 03141000   dbghelp    (export symbols)       C:\Program Files\Debugging Tools for Windows (x86)\dbghelp.dll
+    Loaded symbol image file: C:\Program Files\Debugging Tools for Windows (x86)\dbghelp.dll
+    Image path: C:\Program Files\Debugging Tools for Windows (x86)\dbghelp.dll
+    Image name: dbghelp.dll
+    Timestamp:        Mon Feb 01 12:08:26 2010 (4B6734BA)
+    CheckSum:         0012C9FD
+    ImageSize:        00141000
+    File version:     6.12.2.633
+    Product version:  6.12.2.633
+    File flags:       8 (Mask 3F) Private
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Debugging Tools for Windows(R)
+    InternalName:     DBGHELP.DLL
+    OriginalFilename: DBGHELP.DLL
+    ProductVersion:   6.12.0002.633
+    FileVersion:      6.12.0002.633 (debuggers(dbg).100201-1203)
+    FileDescription:  Windows Image Helper
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+10000000 101a0000   kdexts     (export symbols)       C:\Program Files\Debugging Tools for Windows (x86)\WINXP\kdexts.dll
+    Loaded symbol image file: C:\Program Files\Debugging Tools for Windows (x86)\WINXP\kdexts.dll
+    Image path: C:\Program Files\Debugging Tools for Windows (x86)\WINXP\kdexts.dll
+    Image name: kdexts.dll
+    Timestamp:        Mon Feb 01 12:08:19 2010 (4B6734B3)
+    CheckSum:         001790DC
+    ImageSize:        001A0000
+    File version:     6.1.7650.0
+    Product version:  6.1.7650.0
+    File flags:       8 (Mask 3F) Private
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     kdexts.DLL
+    OriginalFilename: kdexts.DLL
+    ProductVersion:   6.1.7650.0
+    FileVersion:      6.1.7650.0 (fbl_tools_debugger(wmbla).100201-1203)
+    FileDescription:  Microsoft® Kernel Debugger Extensions
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+4b400000 4b486000   MSFTEDIT   (pdb symbols)          c:\winsymbols\DLL\msftedit.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\MSFTEDIT.DLL
+    Image path: C:\WINDOWS\system32\MSFTEDIT.DLL
+    Image name: MSFTEDIT.DLL
+    Timestamp:        Sun Apr 13 17:11:52 2008 (4802A148)
+    CheckSum:         0008EDEB
+    ImageSize:        00086000
+    File version:     5.41.15.1515
+    Product version:  5.0.0.0
+    File flags:       0 (Mask 3F)
+    File OS:          4 Unknown Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0000.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft RichEdit Control, version 4.1
+    InternalName:     MsftEdit
+    OriginalFilename: MsftEdit.dll
+    ProductVersion:   4.1
+    FileVersion:      5.41.15.1515
+    FileDescription:  Rich Text Edit Control, v4.1
+    LegalCopyright:   Copyright © Microsoft Corp. 1997-2001.
+    Comments:         MsftEdit Version 4.1
+5ad70000 5ada8000   uxtheme    (pdb symbols)          c:\winsymbols\dll\uxtheme.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\uxtheme.dll
+    Image path: C:\WINDOWS\system32\uxtheme.dll
+    Image name: uxtheme.dll
+    Timestamp:        Sun Apr 13 17:11:10 2008 (4802A11E)
+    CheckSum:         0004533D
+    ImageSize:        00038000
+    File version:     6.0.2900.5512
+    Product version:  6.0.2900.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     UxTheme.dll
+    OriginalFilename: UxTheme.dll
+    ProductVersion:   6.00.2900.5512
+    FileVersion:      6.00.2900.5512 (xpsp.080413-2105)
+    FileDescription:  Microsoft UxTheme Library
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+5b860000 5b8b5000   NETAPI32   (pdb symbols)          c:\winsymbols\dll\netapi32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\NETAPI32.dll
+    Image path: C:\WINDOWS\system32\NETAPI32.dll
+    Image name: NETAPI32.dll
+    Timestamp:        Sun Apr 13 17:10:34 2008 (4802A0FA)
+    CheckSum:         000576DE
+    ImageSize:        00055000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     NetApi32.DLL
+    OriginalFilename: NetApi32.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2113)
+    FileDescription:  Net Win32 API DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+71b20000 71b32000   MPR        (pdb symbols)          c:\winsymbols\dll\mpr.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\MPR.dll
+    Image path: C:\WINDOWS\system32\MPR.dll
+    Image name: MPR.dll
+    Timestamp:        Sun Apr 13 17:10:45 2008 (4802A105)
+    CheckSum:         00013C87
+    ImageSize:        00012000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     mpr.dll
+    OriginalFilename: mpr.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-0852)
+    FileDescription:  Multiple Provider Router DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+71bf0000 71c03000   SAMLIB     (pdb symbols)          c:\winsymbols\dll\samlib.pdb
+    Loaded symbol image file: C:\WINDOWS\System32\SAMLIB.dll
+    Image path: C:\WINDOWS\System32\SAMLIB.dll
+    Image name: SAMLIB.dll
+    Timestamp:        Sun Apr 13 17:10:46 2008 (4802A106)
+    CheckSum:         0001A8E4
+    ImageSize:        00013000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     SAMLib.DLL
+    OriginalFilename: SAMLib.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2113)
+    FileDescription:  SAM Library DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+71c10000 71c1e000   ntlanman   (pdb symbols)          c:\winsymbols\dll\ntlanman.pdb
+    Loaded symbol image file: C:\WINDOWS\System32\ntlanman.dll
+    Image path: C:\WINDOWS\System32\ntlanman.dll
+    Image name: ntlanman.dll
+    Timestamp:        Sun Apr 13 17:11:06 2008 (4802A11A)
+    CheckSum:         00010FA7
+    ImageSize:        0000E000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     ntlanman.dll
+    OriginalFilename: ntlanman.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  Microsoft® Lan Manager
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+71c80000 71c87000   NETRAP     (pdb symbols)          c:\winsymbols\dll\netrap.pdb
+    Loaded symbol image file: C:\WINDOWS\System32\NETRAP.dll
+    Image path: C:\WINDOWS\System32\NETRAP.dll
+    Image name: NETRAP.dll
+    Timestamp:        Sun Apr 13 17:10:41 2008 (4802A101)
+    CheckSum:         0000E1C7
+    ImageSize:        00007000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     NetRap.DLL
+    OriginalFilename: NetRap.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2113)
+    FileDescription:  Net Remote Admin Protocol DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+71c90000 71cd0000   NETUI1     (pdb symbols)          c:\winsymbols\dll\netui1.pdb
+    Loaded symbol image file: C:\WINDOWS\System32\NETUI1.dll
+    Image path: C:\WINDOWS\System32\NETUI1.dll
+    Image name: NETUI1.dll
+    Timestamp:        Sun Apr 13 17:10:45 2008 (4802A105)
+    CheckSum:         00046D82
+    ImageSize:        00040000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     netui1.dll
+    OriginalFilename: netui1.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  NT LM UI Common Code - Networking classes
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+71cd0000 71ce7000   NETUI0     (pdb symbols)          c:\winsymbols\dll\netui0.pdb
+    Loaded symbol image file: C:\WINDOWS\System32\NETUI0.dll
+    Image path: C:\WINDOWS\System32\NETUI0.dll
+    Image name: NETUI0.dll
+    Timestamp:        Sun Apr 13 17:10:44 2008 (4802A104)
+    CheckSum:         0001EABE
+    ImageSize:        00017000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     netui0.dll
+    OriginalFilename: netui0.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  NT LM UI Common Code - GUI Classes
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+74320000 7435d000   ODBC32     (pdb symbols)          c:\winsymbols\dll\odbc32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\ODBC32.dll
+    Image path: C:\WINDOWS\system32\ODBC32.dll
+    Image name: ODBC32.dll
+    Timestamp:        Sun Apr 13 17:10:38 2008 (4802A0FE)
+    CheckSum:         0004B250
+    ImageSize:        0003D000
+    File version:     3.525.1132.0
+    Product version:  3.525.1132.0
+    File flags:       0 (Mask 3)
+    File OS:          4 Unknown Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0000.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft Data Access Components
+    InternalName:     ODBC32
+    OriginalFilename: ODBC32
+    ProductVersion:   3.525.1132.0
+    FileVersion:      3.525.1132.0 (xpsp.080413-0852)
+    FileDescription:  Microsoft Data Access - ODBC Driver Manager
+    LegalCopyright:   Copyright (C) Microsoft Corporation 1990-2000
+754d0000 75550000   CRYPTUI    (pdb symbols)          c:\winsymbols\dll\cryptui.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\CRYPTUI.dll
+    Image path: C:\WINDOWS\system32\CRYPTUI.dll
+    Image name: CRYPTUI.dll
+    Timestamp:        Sun Apr 13 17:10:05 2008 (4802A0DD)
+    CheckSum:         0007D3CF
+    ImageSize:        00080000
+    File version:     5.131.2600.5512
+    Product version:  5.131.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     CRYPTUI.DLL
+    OriginalFilename: CRYPTUI.DLL
+    ProductVersion:   5.131.2600.5512
+    FileVersion:      5.131.2600.5512 (xpsp.080413-2113)
+    FileDescription:  Microsoft Trust UI Provider
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+75970000 75a68000   MSGINA     (pdb symbols)          c:\winsymbols\dll\msgina.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\MSGINA.dll
+    Image path: C:\WINDOWS\system32\MSGINA.dll
+    Image name: MSGINA.dll
+    Timestamp:        Sun Apr 13 17:11:53 2008 (4802A149)
+    CheckSum:         000FCAEB
+    ImageSize:        000F8000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     msgina
+    OriginalFilename: MSGINA.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2113)
+    FileDescription:  Windows NT Logon GINA DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+75f60000 75f67000   drprov     (pdb symbols)          c:\winsymbols\dll\drprov.pdb
+    Loaded symbol image file: C:\WINDOWS\System32\drprov.dll
+    Image path: C:\WINDOWS\System32\drprov.dll
+    Image name: drprov.dll
+    Timestamp:        Sun Apr 13 17:10:22 2008 (4802A0EE)
+    CheckSum:         00012273
+    ImageSize:        00007000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     DRPROV.DLL
+    OriginalFilename: DRPROV.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2111)
+    FileDescription:  Microsoft Terminal Server Network Provider
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+75f70000 75f7a000   davclnt    (pdb symbols)          c:\winsymbols\dll\davclnt.pdb
+    Loaded symbol image file: C:\WINDOWS\System32\davclnt.dll
+    Image path: C:\WINDOWS\System32\davclnt.dll
+    Image name: davclnt.dll
+    Timestamp:        Sun Apr 13 17:09:19 2008 (4802A0AF)
+    CheckSum:         00007174
+    ImageSize:        0000A000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        1.0 App
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     davclnt.dll
+    OriginalFilename: davclnt.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2111)
+    FileDescription:  Web DAV Client DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+75f80000 7607d000   browseui   (pdb symbols)          c:\winsymbols\dll\browseui.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\browseui.dll
+    Image path: C:\WINDOWS\system32\browseui.dll
+    Image name: browseui.dll
+    Timestamp:        Sun Apr 13 17:09:12 2008 (4802A0A8)
+    CheckSum:         00104E30
+    ImageSize:        000FD000
+    File version:     6.0.2900.5512
+    Product version:  6.0.2900.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     BROWSEUI.DLL
+    OriginalFilename: BROWSEUI.DLL
+    ProductVersion:   6.00.2900.5512
+    FileVersion:      6.00.2900.5512 (xpsp.080413-2105)
+    FileDescription:  Shell Browser UI Library
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+76360000 76370000   WINSTA     (pdb symbols)          c:\winsymbols\dll\winsta.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\WINSTA.dll
+    Image path: C:\WINDOWS\system32\WINSTA.dll
+    Image name: WINSTA.dll
+    Timestamp:        Sun Apr 13 17:11:21 2008 (4802A129)
+    CheckSum:         00016B34
+    ImageSize:        00010000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        1.0 App
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     winsta
+    OriginalFilename: winsta.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2111)
+    FileDescription:  Winstation Library
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+763b0000 763f9000   comdlg32   (pdb symbols)          c:\winsymbols\dll\comdlg32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\comdlg32.dll
+    Image path: C:\WINDOWS\system32\comdlg32.dll
+    Image name: comdlg32.dll
+    Timestamp:        Sun Apr 13 17:09:45 2008 (4802A0C9)
+    CheckSum:         0004EDB8
+    ImageSize:        00049000
+    File version:     6.0.2900.5512
+    Product version:  6.0.2900.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     comdlg32
+    OriginalFilename: comdlg32.dll
+    ProductVersion:   6.00.2900.5512
+    FileVersion:      6.00.2900.5512 (xpsp.080413-2105)
+    FileDescription:  Common Dialogs DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+76600000 7661d000   CSCDLL     (pdb symbols)          c:\winsymbols\dll\cscdll.pdb
+    Loaded symbol image file: C:\WINDOWS\System32\CSCDLL.dll
+    Image path: C:\WINDOWS\System32\CSCDLL.dll
+    Image name: CSCDLL.dll
+    Timestamp:        Sun Apr 13 17:10:06 2008 (4802A0DE)
+    CheckSum:         000271BB
+    ImageSize:        0001D000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     CSCDLL
+    OriginalFilename: CSCDLL.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2111)
+    FileDescription:  Offline Network Agent
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+76980000 76988000   LINKINFO   (pdb symbols)          c:\winsymbols\dll\linkinfo.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\LINKINFO.dll
+    Image path: C:\WINDOWS\system32\LINKINFO.dll
+    Image name: LINKINFO.dll
+    Timestamp:        Sun Apr 13 17:10:00 2008 (4802A0D8)
+    CheckSum:         0000B019
+    ImageSize:        00008000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     LINKINFO
+    OriginalFilename: LINKINFO.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2105)
+    FileDescription:  Windows Volume Tracking
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+76990000 769b5000   ntshrui    (pdb symbols)          c:\winsymbols\dll\ntshrui.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\ntshrui.dll
+    Image path: C:\WINDOWS\system32\ntshrui.dll
+    Image name: ntshrui.dll
+    Timestamp:        Sun Apr 13 17:11:15 2008 (4802A123)
+    CheckSum:         0002E911
+    ImageSize:        00025000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        1.0 App
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     ntshrui
+    OriginalFilename: ntshrui.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2105)
+    FileDescription:  Shell extensions for sharing
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+769c0000 76a74000   USERENV    (pdb symbols)          c:\winsymbols\dll\userenv.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\USERENV.dll
+    Image path: C:\WINDOWS\system32\USERENV.dll
+    Image name: USERENV.dll
+    Timestamp:        Sun Apr 13 17:11:08 2008 (4802A11C)
+    CheckSum:         000B36ED
+    ImageSize:        000B4000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        1.0 App
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     userenv
+    OriginalFilename: userenv.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2113)
+    FileDescription:  Userenv
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+76b20000 76b31000   ATL        (pdb symbols)          c:\winsymbols\DLL\atl.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\ATL.DLL
+    Image path: C:\WINDOWS\system32\ATL.DLL
+    Image name: ATL.DLL
+    Timestamp:        Sun Apr 13 17:09:54 2008 (4802A0D2)
+    CheckSum:         00017364
+    ImageSize:        00011000
+    File version:     3.5.2284.1
+    Product version:  6.5.0.2284
+    File flags:       0 (Mask 3F)
+    File OS:          4 Unknown Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft (R) Visual C++
+    InternalName:     ATL
+    OriginalFilename: ATL.DLL
+    ProductVersion:   6.05.2284
+    FileVersion:      3.05.2284
+    FileDescription:  ATL Module for Windows XP (Unicode)
+    LegalCopyright:   Copyright © Microsoft Corp.
+76c30000 76c5e000   WINTRUST   (pdb symbols)          c:\winsymbols\dll\wintrust.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\WINTRUST.dll
+    Image path: C:\WINDOWS\system32\WINTRUST.dll
+    Image name: WINTRUST.dll
+    Timestamp:        Sun Apr 13 17:11:22 2008 (4802A12A)
+    CheckSum:         00030474
+    ImageSize:        0002E000
+    File version:     5.131.2600.5512
+    Product version:  5.131.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     WINTRUST.DLL
+    OriginalFilename: WINTRUST.DLL
+    ProductVersion:   5.131.2600.5512
+    FileVersion:      5.131.2600.5512 (xpsp.080413-2113)
+    FileDescription:  Microsoft Trust Verification APIs
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+76c90000 76cb8000   IMAGEHLP   (pdb symbols)          c:\winsymbols\dll\imagehlp.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\IMAGEHLP.dll
+    Image path: C:\WINDOWS\system32\IMAGEHLP.dll
+    Image name: IMAGEHLP.dll
+    Timestamp:        Sun Apr 13 17:10:00 2008 (4802A0D8)
+    CheckSum:         0002A667
+    ImageSize:        00028000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     IMAGEHLP.DLL
+    OriginalFilename: IMAGEHLP.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2105)
+    FileDescription:  Windows NT Image Helper
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+76f60000 76f8c000   WLDAP32    (pdb symbols)          c:\winsymbols\dll\wldap32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\WLDAP32.dll
+    Image path: C:\WINDOWS\system32\WLDAP32.dll
+    Image name: WLDAP32.dll
+    Timestamp:        Sun Apr 13 17:11:26 2008 (4802A12E)
+    CheckSum:         0002F986
+    ImageSize:        0002C000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     WLDAP32.DLL
+    OriginalFilename: WLDAP32.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2113)
+    FileDescription:  Win32 LDAP API DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+76fd0000 7704f000   CLBCATQ    (pdb symbols)          c:\winsymbols\DLL\clbcatq.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\CLBCATQ.DLL
+    Image path: C:\WINDOWS\system32\CLBCATQ.DLL
+    Image name: CLBCATQ.DLL
+    Timestamp:        Sun Apr 13 17:09:29 2008 (4802A0B9)
+    CheckSum:         0007AA0B
+    ImageSize:        0007F000
+    File version:     2001.12.4414.700
+    Product version:  3.0.0.4414
+    File flags:       20 (Mask 3F) Special
+    File OS:          4 Unknown Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04e4
+    CompanyName:      Microsoft Corporation
+    ProductName:      COM Services
+    InternalName:     CLBCATQ.DLL
+    ProductVersion:   03.00.00.4414
+    FileVersion:      2001.12.4414.700
+    LegalCopyright:   Copyright (C) Microsoft Corp. 1995-1999
+    LegalTrademarks:  Microsoft(R) is a registered trademark of Microsoft Corporation. Windows(TM) is a trademark of Microsoft Corporation
+77050000 77115000   COMRes     (pdb symbols)          c:\winsymbols\dll\COMRes.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\COMRes.dll
+    Image path: C:\WINDOWS\system32\COMRes.dll
+    Image name: COMRes.dll
+    Timestamp:        Sun Apr 13 17:09:50 2008 (4802A0CE)
+    CheckSum:         000CD041
+    ImageSize:        000C5000
+    File version:     2001.12.4414.700
+    Product version:  3.0.0.4414
+    File flags:       20 (Mask 3F) Special
+    File OS:          4 Unknown Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04e4
+    CompanyName:      Microsoft Corporation
+    ProductName:      COM Services
+    InternalName:     COMRES.DLL
+    ProductVersion:   03.00.00.4414
+    FileVersion:      2001.12.4414.700
+    LegalCopyright:   Copyright (C) Microsoft Corp. 1995-1999
+    LegalTrademarks:  Microsoft(R) is a registered trademark of Microsoft Corporation. Windows(TM) is a trademark of Microsoft Corporation
+77120000 771ab000   OLEAUT32   (pdb symbols)          c:\winsymbols\dll\oleaut32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\OLEAUT32.dll
+    Image path: C:\WINDOWS\system32\OLEAUT32.dll
+    Image name: OLEAUT32.dll
+    Timestamp:        Sun Apr 13 17:10:58 2008 (4802A112)
+    CheckSum:         0008D4E3
+    ImageSize:        0008B000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04e4
+    CompanyName:      Microsoft Corporation
+    InternalName:     OLEAUT32.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512
+    LegalCopyright:   Copyright © Microsoft Corp. 1993-2001.
+    LegalTrademarks:  Microsoft® is a registered trademark of Microsoft Corporation. Windows® is a registered trademark of Microsoft Corporation.
+771b0000 7725a000   WININET    (pdb symbols)          c:\winsymbols\dll\wininet.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\WININET.dll
+    Image path: C:\WINDOWS\system32\WININET.dll
+    Image name: WININET.dll
+    Timestamp:        Sun Apr 13 17:11:38 2008 (4802A13A)
+    CheckSum:         000AACD0
+    ImageSize:        000AA000
+    File version:     6.0.2900.5512
+    Product version:  6.0.2900.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     wininet.dll
+    OriginalFilename: wininet.dll
+    ProductVersion:   6.00.2900.5512
+    FileVersion:      6.00.2900.5512 (xpsp.080413-2105)
+    FileDescription:  Internet Extensions for Win32
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+773d0000 774d3000   COMCTL32   (pdb symbols)          c:\winsymbols\dll\MicrosoftWindowsCommon-Controls-6.0.2600.5512-comctl32.pdb
+    Loaded symbol image file: C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\COMCTL32.dll
+    Image path: C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\COMCTL32.dll
+    Image name: COMCTL32.dll
+    Timestamp:        Sun Apr 13 17:08:52 2008 (4802A094)
+    CheckSum:         0010324B
+    ImageSize:        00103000
+    File version:     6.0.2900.5512
+    Product version:  6.0.2900.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     comctl32
+    OriginalFilename: comctl32.DLL
+    ProductVersion:   6.00.2900.5512
+    FileVersion:      6.0 (xpsp.080413-2105)
+    FileDescription:  User Experience Controls Library
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+774e0000 7761d000   ole32      (pdb symbols)          c:\winsymbols\dll\ole32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\ole32.dll
+    Image path: C:\WINDOWS\system32\ole32.dll
+    Image name: ole32.dll
+    Timestamp:        Sun Apr 13 17:10:57 2008 (4802A111)
+    CheckSum:         0014744B
+    ImageSize:        0013D000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     OLE32.DLL
+    OriginalFilename: OLE32.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  Microsoft OLE for Windows
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77920000 77a13000   SETUPAPI   (pdb symbols)          c:\winsymbols\dll\setupapi.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\SETUPAPI.dll
+    Image path: C:\WINDOWS\system32\SETUPAPI.dll
+    Image name: SETUPAPI.dll
+    Timestamp:        Sun Apr 13 17:10:51 2008 (4802A10B)
+    CheckSum:         000F1928
+    ImageSize:        000F3000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     SETUPAPI.DLL
+    OriginalFilename: SETUPAPI.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2111)
+    FileDescription:  Windows Setup API
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77a20000 77a74000   cscui      (pdb symbols)          c:\winsymbols\dll\cscui.pdb
+    Loaded symbol image file: C:\WINDOWS\System32\cscui.dll
+    Image path: C:\WINDOWS\System32\cscui.dll
+    Image name: cscui.dll
+    Timestamp:        Sun Apr 13 17:10:07 2008 (4802A0DF)
+    CheckSum:         000558F9
+    ImageSize:        00054000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     cscui
+    OriginalFilename: cscui.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2105)
+    FileDescription:  Client Side Caching UI
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77a80000 77b15000   CRYPT32    (pdb symbols)          c:\winsymbols\dll\crypt32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\CRYPT32.dll
+    Image path: C:\WINDOWS\system32\CRYPT32.dll
+    Image name: CRYPT32.dll
+    Timestamp:        Sun Apr 13 17:09:59 2008 (4802A0D7)
+    CheckSum:         0009C530
+    ImageSize:        00095000
+    File version:     5.131.2600.5512
+    Product version:  5.131.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     CRYPT32.DLL
+    OriginalFilename: CRYPT32.DLL
+    ProductVersion:   5.131.2600.5512
+    FileVersion:      5.131.2600.5512 (xpsp.080413-2113)
+    FileDescription:  Crypto API32
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77b20000 77b32000   MSASN1     (pdb symbols)          c:\winsymbols\dll\msasn1.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\MSASN1.dll
+    Image path: C:\WINDOWS\system32\MSASN1.dll
+    Image name: MSASN1.dll
+    Timestamp:        Sun Apr 13 17:11:18 2008 (4802A126)
+    CheckSum:         00018203
+    ImageSize:        00012000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     msasn1.dll
+    OriginalFilename: msasn1.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-0852)
+    FileDescription:  ASN.1 Runtime APIs
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77b40000 77b62000   appHelp    (pdb symbols)          c:\winsymbols\dll\apphelp.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\appHelp.dll
+    Image path: C:\WINDOWS\system32\appHelp.dll
+    Image name: appHelp.dll
+    Timestamp:        Sun Apr 13 17:09:35 2008 (4802A0BF)
+    CheckSum:         00029AEA
+    ImageSize:        00022000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     Apphelp
+    OriginalFilename: Apphelp
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2105)
+    FileDescription:  Application Compatibility Client Library
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77c00000 77c08000   VERSION    (pdb symbols)          c:\winsymbols\dll\version.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\VERSION.dll
+    Image path: C:\WINDOWS\system32\VERSION.dll
+    Image name: VERSION.dll
+    Timestamp:        Sun Apr 13 17:11:09 2008 (4802A11D)
+    CheckSum:         00012C70
+    ImageSize:        00008000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     version
+    OriginalFilename: VERSION.DLL
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2105)
+    FileDescription:  Version Checking and File Installation Libraries
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77c10000 77c68000   msvcrt     (pdb symbols)          c:\winsymbols\dll\msvcrt.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\msvcrt.dll
+    Image path: C:\WINDOWS\system32\msvcrt.dll
+    Image name: msvcrt.dll
+    Timestamp:        Sun Apr 13 17:12:56 2008 (4802A188)
+    CheckSum:         00057341
+    ImageSize:        00058000
+    File version:     7.0.2600.5512
+    Product version:  6.1.8638.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        1.0 App
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     msvcrt.dll
+    OriginalFilename: msvcrt.dll
+    ProductVersion:   7.0.2600.5512
+    FileVersion:      7.0.2600.5512 (xpsp.080413-2111)
+    FileDescription:  Windows NT CRT DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77dd0000 77e6b000   ADVAPI32   (pdb symbols)          c:\winsymbols\dll\advapi32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\ADVAPI32.dll
+    Image path: C:\WINDOWS\system32\ADVAPI32.dll
+    Image name: ADVAPI32.dll
+    Timestamp:        Sun Apr 13 17:09:22 2008 (4802A0B2)
+    CheckSum:         0009B625
+    ImageSize:        0009B000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     advapi32.dll
+    OriginalFilename: advapi32.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2113)
+    FileDescription:  Advanced Windows 32 Base API
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77e70000 77f02000   RPCRT4     (pdb symbols)          c:\winsymbols\dll\rpcrt4.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\RPCRT4.dll
+    Image path: C:\WINDOWS\system32\RPCRT4.dll
+    Image name: RPCRT4.dll
+    Timestamp:        Sun Apr 13 17:10:46 2008 (4802A106)
+    CheckSum:         00091932
+    ImageSize:        00092000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     rpcrt4.dll
+    OriginalFilename: rpcrt4.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  Remote Procedure Call Runtime
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77f10000 77f59000   GDI32      (pdb symbols)          c:\winsymbols\dll\gdi32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\GDI32.dll
+    Image path: C:\WINDOWS\system32\GDI32.dll
+    Image name: GDI32.dll
+    Timestamp:        Sun Apr 13 17:09:34 2008 (4802A0BE)
+    CheckSum:         000472FF
+    ImageSize:        00049000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     gdi32
+    OriginalFilename: gdi32
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2105)
+    FileDescription:  GDI Client DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77f60000 77fd6000   SHLWAPI    (pdb symbols)          c:\winsymbols\dll\shlwapi.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\SHLWAPI.dll
+    Image path: C:\WINDOWS\system32\SHLWAPI.dll
+    Image name: SHLWAPI.dll
+    Timestamp:        Sun Apr 13 17:11:02 2008 (4802A116)
+    CheckSum:         0008329F
+    ImageSize:        00076000
+    File version:     6.0.2900.5512
+    Product version:  6.0.2900.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     SHLWAPI
+    OriginalFilename: SHLWAPI.DLL
+    ProductVersion:   6.00.2900.5512
+    FileVersion:      6.00.2900.5512 (xpsp.080413-2105)
+    FileDescription:  Shell Light-weight Utility Library
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+77fe0000 77ff1000   Secur32    (pdb symbols)          c:\winsymbols\dll\secur32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\Secur32.dll
+    Image path: C:\WINDOWS\system32\Secur32.dll
+    Image name: Secur32.dll
+    Timestamp:        Sun Apr 13 17:11:07 2008 (4802A11B)
+    CheckSum:         000117DB
+    ImageSize:        00011000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     security.dll
+    OriginalFilename: security.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2113)
+    FileDescription:  Security Support Provider Interface
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+7c800000 7c8f6000   kernel32   (pdb symbols)          c:\winsymbols\dll\kernel32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\kernel32.dll
+    Image path: C:\WINDOWS\system32\kernel32.dll
+    Image name: kernel32.dll
+    Timestamp:        Sun Apr 13 17:11:24 2008 (4802A12C)
+    CheckSum:         000F44A2
+    ImageSize:        000F6000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     kernel32
+    OriginalFilename: kernel32
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2111)
+    FileDescription:  Windows NT BASE API Client DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+7c900000 7c9af000   ntdll      (pdb symbols)          c:\winsymbols\dll\ntdll.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\ntdll.dll
+    Image path: C:\WINDOWS\system32\ntdll.dll
+    Image name: ntdll.dll
+    Timestamp:        Sun Apr 13 17:11:24 2008 (4802A12C)
+    CheckSum:         000B62BC
+    ImageSize:        000AF000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     ntdll.dll
+    OriginalFilename: ntdll.dll
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2111)
+    FileDescription:  NT Layer DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+7c9c0000 7d1d7000   SHELL32    (pdb symbols)          c:\winsymbols\dll\shell32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\SHELL32.dll
+    Image path: C:\WINDOWS\system32\SHELL32.dll
+    Image name: SHELL32.dll
+    Timestamp:        Sun Apr 13 17:10:57 2008 (4802A111)
+    CheckSum:         0081AD5D
+    ImageSize:        00817000
+    File version:     6.0.2900.5512
+    Product version:  6.0.2900.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     SHELL32
+    OriginalFilename: SHELL32.DLL
+    ProductVersion:   6.00.2900.5512
+    FileVersion:      6.00.2900.5512 (xpsp.080413-2105)
+    FileDescription:  Windows Shell Common Dll
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+7e290000 7e401000   shdocvw    (pdb symbols)          c:\winsymbols\dll\shdocvw.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\shdocvw.dll
+    Image path: C:\WINDOWS\system32\shdocvw.dll
+    Image name: shdocvw.dll
+    Timestamp:        Sun Apr 13 17:10:56 2008 (4802A110)
+    CheckSum:         001770F6
+    ImageSize:        00171000
+    File version:     6.0.2900.5512
+    Product version:  6.0.2900.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     SHDOCVW.DLL
+    OriginalFilename: SHDOCVW.DLL
+    ProductVersion:   6.00.2900.5512
+    FileVersion:      6.00.2900.5512 (xpsp.080413-2105)
+    FileDescription:  Shell Doc Object and Control Library
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+7e410000 7e4a1000   USER32     (pdb symbols)          c:\winsymbols\dll\user32.pdb
+    Loaded symbol image file: C:\WINDOWS\system32\USER32.dll
+    Image path: C:\WINDOWS\system32\USER32.dll
+    Image name: USER32.dll
+    Timestamp:        Sun Apr 13 17:11:07 2008 (4802A11B)
+    CheckSum:         0008FC76
+    ImageSize:        00091000
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     user32
+    OriginalFilename: user32
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2105)
+    FileDescription:  Windows XP USER API Client DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+804d7000 806cf580   nt         (pdb symbols)          c:\winsymbols\exe\ntkrnlpa.pdb
+    Loaded symbol image file: ntkrnlpa.exe
+    Image path: ntkrnlpa.exe
+    Image name: ntkrnlpa.exe
+    Timestamp:        Sun Apr 13 11:31:06 2008 (4802516A)
+    CheckSum:         00204E7E
+    ImageSize:        001F8580
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        1.0 App
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     ntkrnlpa.exe
+    OriginalFilename: ntkrnlpa.exe
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2111)
+    FileDescription:  NT Kernel & System
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+806d0000 806f0300   hal        (pdb symbols)          c:\winsymbols\dll\halaacpi.pdb
+    Loaded symbol image file: halaacpi.dll
+    Image path: halaacpi.dll
+    Image name: halaacpi.dll
+    Timestamp:        Sun Apr 13 11:31:27 2008 (4802517F)
+    CheckSum:         00024F17
+    ImageSize:        00020300
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+bf800000 bf9c2980   win32k     (pdb symbols)          c:\winsymbols\sys\win32k.pdb
+    Loaded symbol image file: \SystemRoot\System32\win32k.sys
+    Image path: \SystemRoot\System32\win32k.sys
+    Image name: win32k.sys
+    Timestamp:        Sun Apr 13 12:29:46 2008 (48025F2A)
+    CheckSum:         001CC002
+    ImageSize:        001C2980
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     win32k.sys
+    OriginalFilename: win32k.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2105)
+    FileDescription:  Multi-User Win32 Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+bf9c3000 bf9d4600   dxg        (pdb symbols)          c:\winsymbols\sys\dxg.pdb
+    Loaded symbol image file: \SystemRoot\System32\drivers\dxg.sys
+    Image path: \SystemRoot\System32\drivers\dxg.sys
+    Image name: dxg.sys
+    Timestamp:        Sun Apr 13 11:38:27 2008 (48025323)
+    CheckSum:         0001313C
+    ImageSize:        00011600
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     dxg.sys
+    OriginalFilename: dxg.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2105)
+    FileDescription:  DirectX Graphics Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+bff50000 bff52480   framebuf   (pdb symbols)          c:\winsymbols\dll\framebuf.pdb
+    Loaded symbol image file: \SystemRoot\System32\framebuf.dll
+    Image path: \SystemRoot\System32\framebuf.dll
+    Image name: framebuf.dll
+    Timestamp:        Sun Apr 13 17:09:59 2008 (4802A0D7)
+    CheckSum:         000067C7
+    ImageSize:        00002480
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f6871000 f68b1a80   HTTP       (pdb symbols)          c:\winsymbols\sys\http.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\HTTP.sys
+    Image path: \SystemRoot\System32\Drivers\HTTP.sys
+    Image name: HTTP.sys
+    Timestamp:        Sun Apr 13 11:53:48 2008 (480256BC)
+    CheckSum:         00046D31
+    ImageSize:        00040A80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f68da000 f692bc00   srv        (pdb symbols)          c:\winsymbols\sys\srv.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\srv.sys
+    Image path: \SystemRoot\system32\DRIVERS\srv.sys
+    Image name: srv.sys
+    Timestamp:        Sun Apr 13 12:15:08 2008 (48025BBC)
+    CheckSum:         000548A1
+    ImageSize:        00051C00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f6a94000 f6ac0180   mrxdav     (pdb symbols)          c:\winsymbols\sys\mrxdav.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\mrxdav.sys
+    Image path: \SystemRoot\system32\DRIVERS\mrxdav.sys
+    Image name: mrxdav.sys
+    Timestamp:        Sun Apr 13 11:32:42 2008 (480251CA)
+    CheckSum:         0002C564
+    ImageSize:        0002C180
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f6cd1000 f6cdb000   secdrv     (no symbols)           
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\secdrv.sys
+    Image path: \SystemRoot\system32\DRIVERS\secdrv.sys
+    Image name: secdrv.sys
+    Timestamp:        Wed Sep 13 06:18:32 2006 (45080528)
+    CheckSum:         0000F9E8
+    ImageSize:        0000A000
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f6d39000 f6d3c900   ndisuio    (pdb symbols)          c:\winsymbols\sys\ndisuio.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\ndisuio.sys
+    Image path: \SystemRoot\system32\DRIVERS\ndisuio.sys
+    Image name: ndisuio.sys
+    Timestamp:        Sun Apr 13 11:55:57 2008 (4802573D)
+    CheckSum:         00008481
+    ImageSize:        00003900
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7031000 f7048900   dump_atapi   (pdb symbols)          c:\winsymbols\sys\atapi.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\dump_atapi.sys
+    Image path: \SystemRoot\System32\Drivers\dump_atapi.sys
+    Image name: dump_atapi.sys
+    Timestamp:        Sun Apr 13 11:40:29 2008 (4802539D)
+    CheckSum:         0001CD25
+    ImageSize:        00017900
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     atapi.sys
+    OriginalFilename: atapi.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  IDE/ATAPI Port Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7049000 f70b8780   mrxsmb     (pdb symbols)          c:\winsymbols\sys\mrxsmb.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\mrxsmb.sys
+    Image path: \SystemRoot\system32\DRIVERS\mrxsmb.sys
+    Image name: mrxsmb.sys
+    Timestamp:        Sun Apr 13 12:16:58 2008 (48025C2A)
+    CheckSum:         00073928
+    ImageSize:        0006F780
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f70e1000 f710be80   rdbss      (pdb symbols)          c:\winsymbols\sys\rdbss.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\rdbss.sys
+    Image path: \SystemRoot\system32\DRIVERS\rdbss.sys
+    Image name: rdbss.sys
+    Timestamp:        Sun Apr 13 12:28:38 2008 (48025EE6)
+    CheckSum:         0002F906
+    ImageSize:        0002AE80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f710c000 f712db80   afd        (pdb symbols)          c:\winsymbols\sys\afd.pdb
+    Loaded symbol image file: \SystemRoot\System32\drivers\afd.sys
+    Image path: \SystemRoot\System32\drivers\afd.sys
+    Image name: afd.sys
+    Timestamp:        Sun Apr 13 12:19:22 2008 (48025CBA)
+    CheckSum:         00031B09
+    ImageSize:        00021B80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f712e000 f7153500   ipnat      (pdb symbols)          c:\winsymbols\sys\ipnat.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\ipnat.sys
+    Image path: \SystemRoot\system32\DRIVERS\ipnat.sys
+    Image name: ipnat.sys
+    Timestamp:        Sun Apr 13 11:57:10 2008 (48025786)
+    CheckSum:         0002AF4A
+    ImageSize:        00025500
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7154000 f717bc00   netbt      (pdb symbols)          c:\winsymbols\sys\netbt.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\netbt.sys
+    Image path: \SystemRoot\system32\DRIVERS\netbt.sys
+    Image name: netbt.sys
+    Timestamp:        Sun Apr 13 12:20:59 2008 (48025D1B)
+    CheckSum:         0002FE7A
+    ImageSize:        00027C00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f717c000 f71d4380   tcpip      (pdb symbols)          c:\winsymbols\sys\tcpip.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\tcpip.sys
+    Image path: \SystemRoot\system32\DRIVERS\tcpip.sys
+    Image name: tcpip.sys
+    Timestamp:        Sun Apr 13 12:20:12 2008 (48025CEC)
+    CheckSum:         00061C06
+    ImageSize:        00058380
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f71d5000 f71e7600   ipsec      (pdb symbols)          c:\winsymbols\sys\ipsec.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\ipsec.sys
+    Image path: \SystemRoot\system32\DRIVERS\ipsec.sys
+    Image name: ipsec.sys
+    Timestamp:        Sun Apr 13 12:19:42 2008 (48025CCE)
+    CheckSum:         00016389
+    ImageSize:        00012600
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7208000 f721bf00   VIDEOPRT   (pdb symbols)          c:\winsymbols\SYS\videoprt.pdb
+    Loaded symbol image file: \SystemRoot\System32\drivers\VIDEOPRT.SYS
+    Image path: \SystemRoot\System32\drivers\VIDEOPRT.SYS
+    Image name: VIDEOPRT.SYS
+    Timestamp:        Sun Apr 13 11:44:39 2008 (48025497)
+    CheckSum:         000142CF
+    ImageSize:        00013F00
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.4 Driver
+    File date:        00000000.00000000
+    Translations:     0000.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     videoprt.sys
+    OriginalFilename: videoprt.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  Video Port Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7244000 f72a1f00   update     (pdb symbols)          c:\winsymbols\sys\update.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\update.sys
+    Image path: \SystemRoot\system32\DRIVERS\update.sys
+    Image name: update.sys
+    Timestamp:        Sun Apr 13 11:39:46 2008 (48025372)
+    CheckSum:         0006CBBF
+    ImageSize:        0005DF00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f72a2000 f72c4700   ks         (pdb symbols)          c:\winsymbols\sys\ks.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\ks.sys
+    Image path: \SystemRoot\system32\DRIVERS\ks.sys
+    Image name: ks.sys
+    Timestamp:        Sun Apr 13 12:16:34 2008 (48025C12)
+    CheckSum:         000326F0
+    ImageSize:        00022700
+    File version:     5.3.2600.5512
+    Product version:  5.3.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.0 Driver
+    File date:        00000000.00000000
+    Translations:     0000.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft(R) Windows(R) Operating System
+    InternalName:     ks.sys
+    OriginalFilename: ks.sys
+    ProductVersion:   5.3.2600.5512
+    FileVersion:      5.3.2600.5512 (xpsp.080413-2108)
+    FileDescription:  Kernel CSA Library
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f72c5000 f72f4e80   rdpdr      (pdb symbols)          c:\winsymbols\sys\rdpdr.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\rdpdr.sys
+    Image path: \SystemRoot\system32\DRIVERS\rdpdr.sys
+    Image name: rdpdr.sys
+    Timestamp:        Sun Apr 13 11:32:50 2008 (480251D2)
+    CheckSum:         00039B0C
+    ImageSize:        0002FE80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f72f5000 f7305e00   psched     (pdb symbols)          c:\winsymbols\sys\psched.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\psched.sys
+    Image path: \SystemRoot\system32\DRIVERS\psched.sys
+    Image name: psched.sys
+    Timestamp:        Sun Apr 13 11:56:36 2008 (48025764)
+    CheckSum:         0001E655
+    ImageSize:        00010E00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7306000 f731c580   ndiswan    (pdb symbols)          c:\winsymbols\sys\ndiswan.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\ndiswan.sys
+    Image path: \SystemRoot\system32\DRIVERS\ndiswan.sys
+    Image name: ndiswan.sys
+    Timestamp:        Sun Apr 13 12:20:41 2008 (48025D09)
+    CheckSum:         00018B10
+    ImageSize:        00016580
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f731d000 f7340200   USBPORT    (pdb symbols)          c:\winsymbols\SYS\usbport.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\USBPORT.SYS
+    Image path: \SystemRoot\system32\DRIVERS\USBPORT.SYS
+    Image name: USBPORT.SYS
+    Timestamp:        Sun Apr 13 11:45:34 2008 (480254CE)
+    CheckSum:         0002AAEC
+    ImageSize:        00023200
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     usbport.sys
+    OriginalFilename: usbport.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  USB 1.1 & 2.0 Port Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7341000 f7354900   parport    (pdb symbols)          c:\winsymbols\sys\parport.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\parport.sys
+    Image path: \SystemRoot\system32\DRIVERS\parport.sys
+    Image name: parport.sys
+    Timestamp:        Sun Apr 13 11:40:09 2008 (48025389)
+    CheckSum:         00018D4E
+    ImageSize:        00013900
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7379000 f737b900   Dxapi      (pdb symbols)          c:\winsymbols\sys\dxapi.pdb
+    Loaded symbol image file: \SystemRoot\System32\drivers\Dxapi.sys
+    Image path: \SystemRoot\System32\drivers\Dxapi.sys
+    Image name: Dxapi.sys
+    Timestamp:        Fri Aug 17 13:53:19 2001 (3B7D843F)
+    CheckSum:         0000ACC2
+    ImageSize:        00002900
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     dxapi.sys
+    OriginalFilename: dxapi.sys
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (xpclient.010817-1148)
+    FileDescription:  DirectX API Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f739d000 f73b6b80   Mup        (pdb symbols)          c:\winsymbols\sys\mup.pdb
+    Loaded symbol image file: Mup.sys
+    Image path: Mup.sys
+    Image name: Mup.sys
+    Timestamp:        Sun Apr 13 12:17:05 2008 (48025C31)
+    CheckSum:         0001AB3E
+    ImageSize:        00019B80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f73b7000 f73e3980   NDIS       (pdb symbols)          c:\winsymbols\sys\ndis.pdb
+    Loaded symbol image file: NDIS.sys
+    Image path: NDIS.sys
+    Image name: NDIS.sys
+    Timestamp:        Sun Apr 13 12:20:35 2008 (48025D03)
+    CheckSum:         0002E181
+    ImageSize:        0002C980
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f73e4000 f73fa880   KSecDD     (pdb symbols)          c:\winsymbols\sys\ksecdd.pdb
+    Loaded symbol image file: KSecDD.sys
+    Image path: KSecDD.sys
+    Image name: KSecDD.sys
+    Timestamp:        Sun Apr 13 11:31:40 2008 (4802518C)
+    CheckSum:         00025D4C
+    ImageSize:        00016880
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f73fb000 f741e180   Fastfat    (pdb symbols)          c:\winsymbols\sys\fastfat.pdb
+    Loaded symbol image file: Fastfat.sys
+    Image path: Fastfat.sys
+    Image name: Fastfat.sys
+    Timestamp:        Sun Apr 13 12:14:28 2008 (48025B94)
+    CheckSum:         0002A9F9
+    ImageSize:        00023180
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f741f000 f7430f00   sr         (pdb symbols)          c:\winsymbols\sys\sr.pdb
+    Loaded symbol image file: sr.sys
+    Image path: sr.sys
+    Image name: sr.sys
+    Timestamp:        Sun Apr 13 11:36:50 2008 (480252C2)
+    CheckSum:         00012604
+    ImageSize:        00011F00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7431000 f7450b00   fltMgr     (pdb symbols)          c:\winsymbols\sys\fltMgr.pdb
+    Loaded symbol image file: fltMgr.sys
+    Image path: fltMgr.sys
+    Image name: fltMgr.sys
+    Timestamp:        Sun Apr 13 11:32:58 2008 (480251DA)
+    CheckSum:         000251BB
+    ImageSize:        0001FB00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7451000 f7468900   atapi      (pdb symbols)          c:\winsymbols\sys\atapi.pdb
+    Loaded symbol image file: atapi.sys
+    Image path: atapi.sys
+    Image name: atapi.sys
+    Timestamp:        Sun Apr 13 11:40:29 2008 (4802539D)
+    CheckSum:         0001CD25
+    ImageSize:        00017900
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7469000 f748e700   dmio       (pdb symbols)          c:\winsymbols\sys\dmio.pdb
+    Loaded symbol image file: dmio.sys
+    Image path: dmio.sys
+    Image name: dmio.sys
+    Timestamp:        Sun Apr 13 11:44:45 2008 (4802549D)
+    CheckSum:         00034FCE
+    ImageSize:        00025700
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f748f000 f74ad880   ftdisk     (pdb symbols)          c:\winsymbols\sys\ftdisk.pdb
+    Loaded symbol image file: ftdisk.sys
+    Image path: ftdisk.sys
+    Image name: ftdisk.sys
+    Timestamp:        Fri Aug 17 13:52:41 2001 (3B7D8419)
+    CheckSum:         00021032
+    ImageSize:        0001E880
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f74ae000 f74bea80   pci        (pdb symbols)          c:\winsymbols\sys\pci.pdb
+    Loaded symbol image file: pci.sys
+    Image path: pci.sys
+    Image name: pci.sys
+    Timestamp:        Sun Apr 13 11:36:43 2008 (480252BB)
+    CheckSum:         00015F46
+    ImageSize:        00010A80
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     pci.sys
+    OriginalFilename: pci.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2111)
+    FileDescription:  NT Plug and Play PCI Enumerator
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f74bf000 f74ecd80   ACPI       (pdb symbols)          c:\winsymbols\sys\acpi.pdb
+    Loaded symbol image file: ACPI.sys
+    Image path: ACPI.sys
+    Image name: ACPI.sys
+    Timestamp:        Sun Apr 13 11:36:33 2008 (480252B1)
+    CheckSum:         00038955
+    ImageSize:        0002DD80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f75ee000 f75f7180   isapnp     (pdb symbols)          c:\winsymbols\sys\isapnp.pdb
+    Loaded symbol image file: isapnp.sys
+    Image path: isapnp.sys
+    Image name: isapnp.sys
+    Timestamp:        Sun Apr 13 11:36:40 2008 (480252B8)
+    CheckSum:         0000D074
+    ImageSize:        00009180
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f75fe000 f7608580   MountMgr   (pdb symbols)          c:\winsymbols\sys\mountmgr.pdb
+    Loaded symbol image file: MountMgr.sys
+    Image path: MountMgr.sys
+    Image name: MountMgr.sys
+    Timestamp:        Sun Apr 13 11:39:45 2008 (48025371)
+    CheckSum:         0000E3AA
+    ImageSize:        0000A580
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f760e000 f761ac80   VolSnap    (pdb symbols)          c:\winsymbols\sys\volsnap.pdb
+    Loaded symbol image file: VolSnap.sys
+    Image path: VolSnap.sys
+    Image name: VolSnap.sys
+    Timestamp:        Sun Apr 13 11:41:00 2008 (480253BC)
+    CheckSum:         00019063
+    ImageSize:        0000CC80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f761e000 f7626e00   disk       (pdb symbols)          c:\winsymbols\sys\disk.pdb
+    Loaded symbol image file: disk.sys
+    Image path: disk.sys
+    Image name: disk.sys
+    Timestamp:        Sun Apr 13 11:40:46 2008 (480253AE)
+    CheckSum:         00014C02
+    ImageSize:        00008E00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f762e000 f763a180   CLASSPNP   (pdb symbols)          c:\winsymbols\SYS\classpnp.pdb
+    Loaded symbol image file: \WINDOWS\system32\DRIVERS\CLASSPNP.SYS
+    Image path: \WINDOWS\system32\DRIVERS\CLASSPNP.SYS
+    Image name: CLASSPNP.SYS
+    Timestamp:        Sun Apr 13 12:16:21 2008 (48025C05)
+    CheckSum:         0000CA8C
+    ImageSize:        0000C180
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f763e000 f764ad00   i8042prt   (pdb symbols)          c:\winsymbols\sys\i8042prt.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\i8042prt.sys
+    Image path: \SystemRoot\system32\DRIVERS\i8042prt.sys
+    Image name: i8042prt.sys
+    Timestamp:        Sun Apr 13 12:17:59 2008 (48025C67)
+    CheckSum:         0001918C
+    ImageSize:        0000CD00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f764e000 f765dc00   serial     (pdb symbols)          c:\winsymbols\sys\serial.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\serial.sys
+    Image path: \SystemRoot\system32\DRIVERS\serial.sys
+    Image name: serial.sys
+    Timestamp:        Sun Apr 13 12:15:44 2008 (48025BE0)
+    CheckSum:         00014865
+    ImageSize:        0000FC00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f765e000 f7666e00   intelppm   (pdb symbols)          c:\winsymbols\sys\intelppm.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\intelppm.sys
+    Image path: \SystemRoot\system32\DRIVERS\intelppm.sys
+    Image name: intelppm.sys
+    Timestamp:        Sun Apr 13 11:31:31 2008 (48025183)
+    CheckSum:         0000C894
+    ImageSize:        00008E00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f766e000 f767a880   rasl2tp    (pdb symbols)          c:\winsymbols\sys\rasl2tp.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\rasl2tp.sys
+    Image path: \SystemRoot\system32\DRIVERS\rasl2tp.sys
+    Image name: rasl2tp.sys
+    Timestamp:        Sun Apr 13 12:19:43 2008 (48025CCF)
+    CheckSum:         0000FAE5
+    ImageSize:        0000C880
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f767e000 f7688200   raspppoe   (pdb symbols)          c:\winsymbols\sys\raspppoe.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\raspppoe.sys
+    Image path: \SystemRoot\system32\DRIVERS\raspppoe.sys
+    Image name: raspppoe.sys
+    Timestamp:        Sun Apr 13 11:57:31 2008 (4802579B)
+    CheckSum:         0000D695
+    ImageSize:        0000A200
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.6 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     raspppoe.sys
+    OriginalFilename: raspppoe.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-0852)
+    FileDescription:  RAS PPPoE mini-port/call-manager driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f768e000 f7699d00   raspptp    (pdb symbols)          c:\winsymbols\sys\raspptp.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\raspptp.sys
+    Image path: \SystemRoot\system32\DRIVERS\raspptp.sys
+    Image name: raspptp.sys
+    Timestamp:        Sun Apr 13 12:19:47 2008 (48025CD3)
+    CheckSum:         000188A6
+    ImageSize:        0000BD00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f769e000 f76a6900   msgpc      (pdb symbols)          c:\winsymbols\sys\msgpc.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\msgpc.sys
+    Image path: \SystemRoot\system32\DRIVERS\msgpc.sys
+    Image name: msgpc.sys
+    Timestamp:        Sun Apr 13 11:56:32 2008 (48025760)
+    CheckSum:         0000DE60
+    ImageSize:        00008900
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f76ae000 f76b7f00   termdd     (pdb symbols)          c:\winsymbols\sys\termdd.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\termdd.sys
+    Image path: \SystemRoot\system32\DRIVERS\termdd.sys
+    Image name: termdd.sys
+    Timestamp:        Sun Apr 13 11:38:36 2008 (4802532C)
+    CheckSum:         0000DEB5
+    ImageSize:        00009F00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f76be000 f76c7e80   NDProxy    (pdb symbols)          c:\winsymbols\SYS\ndproxy.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\NDProxy.SYS
+    Image path: \SystemRoot\System32\Drivers\NDProxy.SYS
+    Image name: NDProxy.SYS
+    Timestamp:        Sun Apr 13 11:57:28 2008 (48025798)
+    CheckSum:         00011DE5
+    ImageSize:        00009E80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f76de000 f76ec880   usbhub     (pdb symbols)          c:\winsymbols\sys\usbhub.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\usbhub.sys
+    Image path: \SystemRoot\system32\DRIVERS\usbhub.sys
+    Image name: usbhub.sys
+    Timestamp:        Sun Apr 13 11:45:36 2008 (480254D0)
+    CheckSum:         0000FBBC
+    ImageSize:        0000E880
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     usbhub.sys
+    OriginalFilename: usbhub.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  Default Hub Driver for USB
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f76fe000 f7706700   wanarp     (pdb symbols)          c:\winsymbols\sys\wanarp.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\wanarp.sys
+    Image path: \SystemRoot\system32\DRIVERS\wanarp.sys
+    Image name: wanarp.sys
+    Timestamp:        Sun Apr 13 11:57:20 2008 (48025790)
+    CheckSum:         00009785
+    ImageSize:        00008700
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f770e000 f7716780   netbios    (pdb symbols)          c:\winsymbols\sys\netbios.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\netbios.sys
+    Image path: \SystemRoot\system32\DRIVERS\netbios.sys
+    Image name: netbios.sys
+    Timestamp:        Sun Apr 13 11:56:01 2008 (48025741)
+    CheckSum:         00010B5E
+    ImageSize:        00008780
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.6 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     NETBIOS.SYS
+    OriginalFilename: NETBIOS.SYS
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-0852)
+    FileDescription:  NetBIOS interface driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f773e000 f7748e00   Fips       (pdb symbols)          c:\winsymbols\SYS\fips.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\Fips.SYS
+    Image path: \SystemRoot\System32\Drivers\Fips.SYS
+    Image name: Fips.SYS
+    Timestamp:        Sun Apr 13 11:33:27 2008 (480251F7)
+    CheckSum:         0001559A
+    ImageSize:        0000AE00
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     fips.sys
+    OriginalFilename: fips.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2113)
+    FileDescription:  FIPS Crypto Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f786e000 f7874180   PCIIDEX    (pdb symbols)          c:\winsymbols\SYS\pciidex.pdb
+    Loaded symbol image file: \WINDOWS\system32\DRIVERS\PCIIDEX.SYS
+    Image path: \WINDOWS\system32\DRIVERS\PCIIDEX.SYS
+    Image name: PCIIDEX.SYS
+    Timestamp:        Sun Apr 13 11:40:29 2008 (4802539D)
+    CheckSum:         00009319
+    ImageSize:        00006180
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0000.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     pciidex.sys
+    OriginalFilename: pciidex.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  PCI IDE Bus Driver Extension
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7876000 f787ad00   PartMgr    (pdb symbols)          c:\winsymbols\sys\partmgr.pdb
+    Loaded symbol image file: PartMgr.sys
+    Image path: PartMgr.sys
+    Image name: PartMgr.sys
+    Timestamp:        Sun Apr 13 11:40:48 2008 (480253B0)
+    CheckSum:         0000C1F3
+    ImageSize:        00004D00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f788e000 f7894000   kbdclass   (pdb symbols)          c:\winsymbols\sys\kbdclass.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\kbdclass.sys
+    Image path: \SystemRoot\system32\DRIVERS\kbdclass.sys
+    Image name: kbdclass.sys
+    Timestamp:        Sun Apr 13 11:39:46 2008 (48025372)
+    CheckSum:         00011FF4
+    ImageSize:        00006000
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7896000 f789ba00   mouclass   (pdb symbols)          c:\winsymbols\sys\mouclass.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\mouclass.sys
+    Image path: \SystemRoot\system32\DRIVERS\mouclass.sys
+    Image name: mouclass.sys
+    Timestamp:        Sun Apr 13 11:39:47 2008 (48025373)
+    CheckSum:         00014EAB
+    ImageSize:        00005A00
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f789e000 f78a5000   fdc      M (pdb symbols)          c:\winsymbols\sys\fdc.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\fdc.sys
+    Image path: \SystemRoot\system32\DRIVERS\fdc.sys
+    Image name: fdc.sys
+    Timestamp:        unavailable (FFFFFFFE)
+    CheckSum:         missing
+    ImageSize:        00007000
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f78a6000 f78ab080   usbuhci    (pdb symbols)          c:\winsymbols\sys\usbuhci.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\usbuhci.sys
+    Image path: \SystemRoot\system32\DRIVERS\usbuhci.sys
+    Image name: usbuhci.sys
+    Timestamp:        Sun Apr 13 11:45:34 2008 (480254CE)
+    CheckSum:         0000DB34
+    ImageSize:        00005080
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     USBUHCI.sys
+    OriginalFilename: USBUHCI.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  UHCI USB Miniport Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f78ae000 f78b2a80   TDI        (pdb symbols)          c:\winsymbols\SYS\tdi.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\TDI.SYS
+    Image path: \SystemRoot\system32\DRIVERS\TDI.SYS
+    Image name: TDI.SYS
+    Timestamp:        Sun Apr 13 12:00:04 2008 (48025834)
+    CheckSum:         0000649E
+    ImageSize:        00004A80
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.6 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     tdi.sys
+    OriginalFilename: tdi.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-0852)
+    FileDescription:  TDI Wrapper
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f78b6000 f78ba580   ptilink    (pdb symbols)          c:\winsymbols\sys\ptilink.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\ptilink.sys
+    Image path: \SystemRoot\system32\DRIVERS\ptilink.sys
+    Image name: ptilink.sys
+    Timestamp:        Fri Aug 17 13:49:53 2001 (3B7D8371)
+    CheckSum:         0000648C
+    ImageSize:        00004580
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f78be000 f78c2080   raspti     (pdb symbols)          c:\winsymbols\sys\raspti.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\raspti.sys
+    Image path: \SystemRoot\system32\DRIVERS\raspti.sys
+    Image name: raspti.sys
+    Timestamp:        Fri Aug 17 13:55:32 2001 (3B7D84C4)
+    CheckSum:         000114B1
+    ImageSize:        00004080
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.6 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     raspti.sys
+    OriginalFilename: raspti.sys
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (xpclient.010817-1148)
+    FileDescription:  PTI DirectParallel(R) mini-port/call-manager driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f78c6000 f78cb000   flpydisk   (pdb symbols)          c:\winsymbols\sys\flpydisk.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\flpydisk.sys
+    Image path: \SystemRoot\system32\DRIVERS\flpydisk.sys
+    Image name: flpydisk.sys
+    Timestamp:        Sun Apr 13 11:40:24 2008 (48025398)
+    CheckSum:         00010757
+    ImageSize:        00005000
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f78d6000 f78db200   vga        (pdb symbols)          c:\winsymbols\sys\vga.pdb
+    Loaded symbol image file: \SystemRoot\System32\drivers\vga.sys
+    Image path: \SystemRoot\System32\drivers\vga.sys
+    Image name: vga.sys
+    Timestamp:        Sun Apr 13 11:44:40 2008 (48025498)
+    CheckSum:         0001170C
+    ImageSize:        00005200
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.4 Driver
+    File date:        00000000.00000000
+    Translations:     0000.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     vga.sys
+    OriginalFilename: vga.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  VGA/Super VGA Video Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f78de000 f78e2a80   Msfs       (pdb symbols)          c:\winsymbols\SYS\msfs.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\Msfs.SYS
+    Image path: \SystemRoot\System32\Drivers\Msfs.SYS
+    Image name: Msfs.SYS
+    Timestamp:        Sun Apr 13 11:32:38 2008 (480251C6)
+    CheckSum:         00005BB8
+    ImageSize:        00004A80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f78e6000 f78ed880   Npfs       (pdb symbols)          c:\winsymbols\SYS\npfs.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\Npfs.SYS
+    Image path: \SystemRoot\System32\Drivers\Npfs.SYS
+    Image name: Npfs.SYS
+    Timestamp:        Sun Apr 13 11:32:38 2008 (480251C6)
+    CheckSum:         0000C3AB
+    ImageSize:        00007880
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f78ee000 f78f2500   watchdog   (pdb symbols)          c:\winsymbols\sys\watchdog.pdb
+    Loaded symbol image file: \SystemRoot\System32\watchdog.sys
+    Image path: \SystemRoot\System32\watchdog.sys
+    Image name: watchdog.sys
+    Timestamp:        Sun Apr 13 11:44:59 2008 (480254AB)
+    CheckSum:         000078B2
+    ImageSize:        00004500
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0000.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     watchdog.sys
+    OriginalFilename: watchdog.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  Watchdog Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f79fe000 f7a01000   BOOTVID    (pdb symbols)          c:\winsymbols\dll\bootvid.pdb
+    Loaded symbol image file: \WINDOWS\system32\BOOTVID.dll
+    Image path: \WINDOWS\system32\BOOTVID.dll
+    Image name: BOOTVID.dll
+    Timestamp:        Fri Aug 17 13:49:09 2001 (3B7D8345)
+    CheckSum:         0000A36C
+    ImageSize:        00003000
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.4 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     bootvid.dll
+    OriginalFilename: bootvid.dll
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (xpclient.010817-1148)
+    FileDescription:  VGA Boot Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7a7a000 f7a7dd80   serenum    (pdb symbols)          c:\winsymbols\sys\SerEnum.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\serenum.sys
+    Image path: \SystemRoot\system32\DRIVERS\serenum.sys
+    Image name: serenum.sys
+    Timestamp:        Sun Apr 13 11:40:12 2008 (4802538C)
+    CheckSum:         0001290A
+    ImageSize:        00003D80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7a7e000 f7a80780   ndistapi   (pdb symbols)          c:\winsymbols\sys\ndistapi.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\ndistapi.sys
+    Image path: \SystemRoot\system32\DRIVERS\ndistapi.sys
+    Image name: ndistapi.sys
+    Timestamp:        Sun Apr 13 11:57:27 2008 (48025797)
+    CheckSum:         0000A1B3
+    ImageSize:        00002780
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7a92000 f7a95c80   mssmbios   (pdb symbols)          c:\winsymbols\sys\mssmbios.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\mssmbios.sys
+    Image path: \SystemRoot\system32\DRIVERS\mssmbios.sys
+    Image name: mssmbios.sys
+    Timestamp:        Sun Apr 13 11:36:45 2008 (480252BD)
+    CheckSum:         0000FC8F
+    ImageSize:        00003C80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7aba000 f7abc280   rasacd     (pdb symbols)          c:\winsymbols\sys\rasacd.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\rasacd.sys
+    Image path: \SystemRoot\system32\DRIVERS\rasacd.sys
+    Image name: rasacd.sys
+    Timestamp:        Fri Aug 17 13:55:39 2001 (3B7D84CB)
+    CheckSum:         0000B2E7
+    ImageSize:        00002280
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.6 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     rasacd.sys
+    OriginalFilename: rasacd.sys
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (xpclient.010817-1148)
+    FileDescription:  RAS Automatic Connection Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7aee000 f7aefb80   kdcom      (pdb symbols)          c:\winsymbols\dll\kdcom.pdb
+    Loaded symbol image file: kdcom.dll
+    Image path: kdcom.dll
+    Image name: kdcom.dll
+    Timestamp:        Fri Aug 17 13:49:10 2001 (3B7D8346)
+    CheckSum:         00008311
+    ImageSize:        00001B80
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.A Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     kdcom.dll
+    OriginalFilename: kdcom.dll
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (xpclient.010817-1148)
+    FileDescription:  Kernel Debugger HW Extension DLL
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7af0000 f7af1100   WMILIB     (pdb symbols)          c:\winsymbols\SYS\wmilib.pdb
+    Loaded symbol image file: \WINDOWS\system32\DRIVERS\WMILIB.SYS
+    Image path: \WINDOWS\system32\DRIVERS\WMILIB.SYS
+    Image name: WMILIB.SYS
+    Timestamp:        Fri Aug 17 14:07:23 2001 (3B7D878B)
+    CheckSum:         0000D600
+    ImageSize:        00001100
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7af2000 f7af3580   intelide   (pdb symbols)          c:\winsymbols\sys\intelide.pdb
+    Loaded symbol image file: intelide.sys
+    Image path: intelide.sys
+    Image name: intelide.sys
+    Timestamp:        Sun Apr 13 11:40:29 2008 (4802539D)
+    CheckSum:         0000E81D
+    ImageSize:        00001580
+    File version:     5.1.2600.5512
+    Product version:  5.1.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     intelide.sys
+    OriginalFilename: intelide.sys
+    ProductVersion:   5.1.2600.5512
+    FileVersion:      5.1.2600.5512 (xpsp.080413-2108)
+    FileDescription:  Intel PCI IDE Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7af4000 f7af5700   dmload     (pdb symbols)          c:\winsymbols\sys\dmload.pdb
+    Loaded symbol image file: dmload.sys
+    Image path: dmload.sys
+    Image name: dmload.sys
+    Timestamp:        Fri Aug 17 13:58:15 2001 (3B7D8567)
+    CheckSum:         0000DC8A
+    ImageSize:        00001700
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7af6000 f7af7100   swenum     (pdb symbols)          c:\winsymbols\sys\swenum.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\swenum.sys
+    Image path: \SystemRoot\system32\DRIVERS\swenum.sys
+    Image name: swenum.sys
+    Timestamp:        Sun Apr 13 11:39:52 2008 (48025378)
+    CheckSum:         0000383A
+    ImageSize:        00001100
+    File version:     5.3.2600.5512
+    Product version:  5.3.2600.5512
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.0 Driver
+    File date:        00000000.00000000
+    Translations:     0000.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft(R) Windows(R) Operating System
+    InternalName:     swenum.sys
+    OriginalFilename: swenum.sys
+    ProductVersion:   5.3.2600.5512
+    FileVersion:      5.3.2600.5512 (xpsp.080413-2108)
+    FileDescription:  Plug and Play Software Device Enumerator
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7af8000 f7af9280   USBD       (pdb symbols)          c:\winsymbols\SYS\usbd.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\USBD.SYS
+    Image path: \SystemRoot\system32\DRIVERS\USBD.SYS
+    Image name: USBD.SYS
+    Timestamp:        Fri Aug 17 14:02:58 2001 (3B7D8682)
+    CheckSum:         000040AF
+    ImageSize:        00001280
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        2.0 Dll
+    File date:        00000000.00000000
+    Translations:     0000.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     usbd.sys
+    OriginalFilename: usbd.sys
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (XPClient.010817-1148)
+    FileDescription:  Universal Serial Bus Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7afa000 f7afbf00   Fs_Rec     (pdb symbols)          c:\winsymbols\SYS\fs_rec.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\Fs_Rec.SYS
+    Image path: \SystemRoot\System32\Drivers\Fs_Rec.SYS
+    Image name: Fs_Rec.SYS
+    Timestamp:        Fri Aug 17 13:49:37 2001 (3B7D8361)
+    CheckSum:         000079A7
+    ImageSize:        00001F00
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     fs_rec.sys
+    OriginalFilename: fs_rec.sys
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (xpclient.010817-1148)
+    FileDescription:  File System Recognizer Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7afc000 f7afd080   Beep       (pdb symbols)          c:\winsymbols\SYS\beep.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\Beep.SYS
+    Image path: \SystemRoot\System32\Drivers\Beep.SYS
+    Image name: Beep.SYS
+    Timestamp:        Fri Aug 17 13:47:33 2001 (3B7D82E5)
+    CheckSum:         0000C82C
+    ImageSize:        00001080
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     beep.sys
+    OriginalFilename: beep.sys
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (XPClient.010817-1148)
+    FileDescription:  BEEP Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7afe000 f7aff080   mnmdd      (pdb symbols)          c:\winsymbols\SYS\mnmdd.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\mnmdd.SYS
+    Image path: \SystemRoot\System32\Drivers\mnmdd.SYS
+    Image name: mnmdd.SYS
+    Timestamp:        Fri Aug 17 13:57:28 2001 (3B7D8538)
+    CheckSum:         0000F3F7
+    ImageSize:        00001080
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.4 Driver
+    File date:        00000000.00000000
+    Translations:     0000.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     videosim.sys
+    OriginalFilename: videosim.sys
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (XPClient.010817-1148)
+    FileDescription:  Frame buffer simulator
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7b00000 f7b01080   RDPCDD     (pdb symbols)          c:\winsymbols\sys\RDPCDD.pdb
+    Loaded symbol image file: \SystemRoot\System32\DRIVERS\RDPCDD.sys
+    Image path: \SystemRoot\System32\DRIVERS\RDPCDD.sys
+    Image name: RDPCDD.sys
+    Timestamp:        Fri Aug 17 13:46:56 2001 (3B7D82C0)
+    CheckSum:         0000E2B7
+    ImageSize:        00001080
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.4 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     RDPCDD.SYS
+    OriginalFilename: RDPCDD.SYS
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (xpclient.010817-1148)
+    FileDescription:  RDP Miniport
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7b02000 f7b03100   dump_WMILIB   (pdb symbols)          c:\winsymbols\SYS\wmilib.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\dump_WMILIB.SYS
+    Image path: \SystemRoot\System32\Drivers\dump_WMILIB.SYS
+    Image name: dump_WMILIB.SYS
+    Timestamp:        Fri Aug 17 14:07:23 2001 (3B7D878B)
+    CheckSum:         0000D600
+    ImageSize:        00001100
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     WmiLib.sys
+    OriginalFilename: WmiLib.sys
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (XPClient.010817-1148)
+    FileDescription:  WMILIB WMI support library Dll
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7b10000 f7b11a80   ParVdm     (pdb symbols)          c:\winsymbols\SYS\parvdm.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\ParVdm.SYS
+    Image path: \SystemRoot\System32\Drivers\ParVdm.SYS
+    Image name: ParVdm.SYS
+    Timestamp:        Fri Aug 17 13:49:49 2001 (3B7D836D)
+    CheckSum:         0000A855
+    ImageSize:        00001A80
+    Translations:     0000.04b0 0000.04e4 0409.04b0 0409.04e4
+f7c39000 f7c39c00   audstub    (pdb symbols)          c:\winsymbols\sys\audstub.pdb
+    Loaded symbol image file: \SystemRoot\system32\DRIVERS\audstub.sys
+    Image path: \SystemRoot\system32\DRIVERS\audstub.sys
+    Image name: audstub.sys
+    Timestamp:        Fri Aug 17 13:59:40 2001 (3B7D85BC)
+    CheckSum:         000105B1
+    ImageSize:        00000C00
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     audstub.sys
+    OriginalFilename: audstub.sys
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (XPClient.010817-1148)
+    FileDescription:  AudStub Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7c6d000 f7c6db80   Null       (pdb symbols)          c:\winsymbols\SYS\null.pdb
+    Loaded symbol image file: \SystemRoot\System32\Drivers\Null.SYS
+    Image path: \SystemRoot\System32\Drivers\Null.SYS
+    Image name: Null.SYS
+    Timestamp:        Fri Aug 17 13:47:39 2001 (3B7D82EB)
+    CheckSum:         00008483
+    ImageSize:        00000B80
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     null.sys
+    OriginalFilename: null.sys
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (XPClient.010817-1148)
+    FileDescription:  NULL Driver
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.
+f7cdd000 f7cddd00   dxgthk     (pdb symbols)          c:\winsymbols\sys\dxgthk.pdb
+    Loaded symbol image file: \SystemRoot\System32\drivers\dxgthk.sys
+    Image path: \SystemRoot\System32\drivers\dxgthk.sys
+    Image name: dxgthk.sys
+    Timestamp:        Fri Aug 17 13:53:12 2001 (3B7D8438)
+    CheckSum:         000035E7
+    ImageSize:        00000D00
+    File version:     5.1.2600.0
+    Product version:  5.1.2600.0
+    File flags:       0 (Mask 3F)
+    File OS:          40004 NT Win32
+    File type:        3.7 Driver
+    File date:        00000000.00000000
+    Translations:     0409.04b0
+    CompanyName:      Microsoft Corporation
+    ProductName:      Microsoft® Windows® Operating System
+    InternalName:     dxgthk.sys
+    OriginalFilename: dxgthk.sys
+    ProductVersion:   5.1.2600.0
+    FileVersion:      5.1.2600.0 (xpclient.010817-1148)
+    FileDescription:  DirectX Graphics Driver Thunk
+    LegalCopyright:   © Microsoft Corporation. All rights reserved.

@@ -1,0 +1,25 @@
+$$ https://github.com/therealdreg/symseghelper
+$$ Helper scripts for windows debugging with symbols for Bochs and IDA Pro (PDB files). Very handy for user mode <--> kernel mode
+$$ -
+$$ GNU General Public License v3.0
+$$ -
+$$ by David Reguera Garcia aka Dreg
+$$ Twitter @therealdreg
+$$ https://www.fr33project.org
+$$ dreg@fr33project.org
+$$ https://github.com/therealdreg
+$$ -
+$$ WARNING: bullshit code
+
+$$ Execute in windbg: $$>a<C:\dumpmodules.wds C:\outfiles
+
+r $t0=0; 
+.foreach /pS 4 (token {lmon m *}) {
+	r $t0=@$t0 + 1; 
+	.if (@$t0 % 4 == 1) { r $t1 = ${token} }; 
+	.if (@$t0 % 4 == 3) { 
+		.printf "${token} %x\n", $t1; 
+		.writemem  ${$arg1}\${token} $t1 L512;
+	}
+}
+
