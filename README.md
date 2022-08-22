@@ -101,16 +101,19 @@ Done!
 ## IDA PRO:
 
 Edit "C:\Program Files\IDA Pro 7.7\cfg\dbg_bochs.cfg"
-
+```
 BOCHSDBG = "C:\\Users\\leno\\Desktop\\Bochs-pruebas\\bochs\\bochs.exe";
 BOCHSRC = "C:\\Users\\leno\\Desktop\\Bochs-pruebas\\bochs\\.bochsrc";
+```
+
 Go to IDA .....
 
 Debugger -> Run -> Local Bochs Debugger
 
 Application:
-
+```
 C:\Users\leno\Desktop\Bochs-pruebas\bochs\.bochsrc
+```
 
 Cick Debug Options -> Set specific options -> Select Disk image
 
