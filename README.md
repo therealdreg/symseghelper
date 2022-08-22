@@ -241,3 +241,4 @@ done!
 - https://github.com/therealdreg/pdbdump_bochs
 - https://github.com/therealdreg/ida_bochs_windows
 - https://github.com/therealdreg/ida_vmware_windows_gdb
+- https://github.com/therealdreg/bochs_linux_kernel_debugging
